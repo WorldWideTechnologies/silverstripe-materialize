@@ -1,4 +1,3 @@
-<a href="$FacebookLoginLink">Login via Facebook</a>
       <header>
         <div class="row">
           <div class="large-12 column">
