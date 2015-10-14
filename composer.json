@@ -1,0 +1,29 @@
+{
+	"name": "androwan/silverstripe-materialize",
+	"type": "silverstripe-theme",
+	"description": "Materialize Theme for SilverStripe",
+	"keywords": ["Materialize theme", "Materialize foundation", "responsive", "prototyping", "theme"],
+	"license": "MIT Open Source License",
+	"authors": [
+		{
+			"name": "Andrei Roman",
+			"role": "Developer - Tester",
+			"email": "bbstuntman@gmail.com",
+			"homepage": "WIP"
+		}
+	],
+	"require": 
+	{
+		"composer/installers": "*",
+		"silverstripe/framework": "~3.1"
+	},
+	"extra": {
+		"installer-name": "materialize",
+		"branch-alias": {
+			"dev-master": "0.0.1-dev"
+		}
+	},
+	"support": {
+		"issues": "nope"
+	}
+}
