@@ -8,8 +8,7 @@
 		{
 			"name": "Andrei Roman",
 			"role": "Developer - Tester",
-			"email": "bbstuntman@gmail.com",
-			"homepage": "WIP"
+			"email": "bbstuntman@gmail.com"
 		}
 	],
 	"require": 
@@ -17,13 +16,4 @@
 		"composer/installers": "*",
 		"silverstripe/framework": "~3.1"
 	},
-	"extra": {
-		"installer-name": "materialize",
-		"branch-alias": {
-			"dev-master": "0.0.1-dev"
-		}
-	},
-	"support": {
-		"issues": "nope"
-	}
 }
