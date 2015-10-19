@@ -15,5 +15,5 @@
 	{
 		"silverstripe/cms": "*",
 		"silverstripe/framework": "~3.1"
-	},
+	}
 }
